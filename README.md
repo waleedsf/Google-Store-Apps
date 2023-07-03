@@ -1,6 +1,5 @@
 # Google-Store-Apps
 
-# Google-Play-Store-Apps-Data
  This data is web scraped data of 10k Play Store apps around Aug 2018 for analysing the Android market, i will be performing some analysis and visualizations for answering relevant questions. 
 ![image](https://github.com/waleedsf/Google-Play-Stere-Apps-Data/assets/86128909/8d567abf-d6c6-4661-bed3-d767d3671c50)
 
