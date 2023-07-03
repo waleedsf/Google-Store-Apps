@@ -10,3 +10,7 @@
 > Dataset: Google play store data is web scraped data of 10k Play Store apps from 2010 through 2018. Including number of installs, reviews, and application type.
 
 >The data can be found here [data](https://www.kaggle.com/datasets/lava18/google-play-store-apps?select=googleplaystore.csv)
+
+
+## Blog Post:
+https://medium.com/@walattas2000/google-store-apps-872e831904c4
