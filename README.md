@@ -9,7 +9,6 @@
 
 > Dataset: Google play store data is web scraped data of 10k Play Store apps from 2010 through 2018. Including number of installs, reviews, and application type.
 
->The data can be found here [data](https://www.kaggle.com/datasets/lava18/google-play-store-apps?select=googleplaystore.csv)
 
 
 ## Blog Post:
@@ -27,3 +26,11 @@ All dependencies are listed in the requirements.txt file. To install them run:
 
 ```pip install -r requirements.txt```
 
+
+## Acknowledgment 
+Data scource can be found here [data](https://www.kaggle.com/datasets/lava18/google-play-store-apps?select=googleplaystore.csv)
+This information is scraped from the Google Play Store. This app information would not be available without it.
+
+
+## Inspiration
+The Play Store apps data has enormous potential to drive app-making businesses to success. Actionable insights can be drawn for developers to work on and capture the Android market!
