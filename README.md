@@ -14,3 +14,11 @@
 
 ## Blog Post:
 https://medium.com/@walattas2000/google-store-apps-872e831904c4
+
+
+## Dependencies
+
+All dependencies are listed in the requirements.txt file. To install them run:
+
+```pip install -r requirements.txt```
+
